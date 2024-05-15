@@ -35,7 +35,7 @@
 #### 20240515
 
 * 역사 2-3 추가 - [2-3.md](history/2-3.md "mention")
-* 역사 2-4 추가 - [2-4.md](history/2-4.md "mention")
+* 역사 2-4 생성 - [2-4.md](history/2-4.md "mention")
 
 #### 20240514
 
