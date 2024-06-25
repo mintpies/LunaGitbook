@@ -17,4 +17,4 @@
 
 ## 정보 <a href="#info" id="info"></a>
 
-* [I. 정보 문화](info/i..md)
+* [정보](info/undefined.md)

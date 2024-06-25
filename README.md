@@ -27,7 +27,7 @@
 
 ### 정보
 
-[i..md](info/i..md "mention")
+[undefined.md](info/undefined.md "mention")
 
 (최종 수정일 2024/05/30)
 
@@ -39,7 +39,7 @@
 
 #### 20240516
 
-* 정보 1과 생성 - [i..md](info/i..md "mention")
+* 정보 1과 생성 - [undefined.md](info/undefined.md "mention")
 
 #### 20240515
 
